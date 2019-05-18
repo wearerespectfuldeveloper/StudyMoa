@@ -18,6 +18,7 @@ Infra : AWS<br>
 Database : MySQL<br>
 BackEnd : SpringBoot, JPA & Hibernate<br>
 VCS : Git<br>
+CI : Jenkins
 ProjectManagementTool : Trello<br>
 FrontEnd : Vue.js (Admin), JSP & Thymeleaf (Client)
 
