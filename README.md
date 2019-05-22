@@ -15,8 +15,8 @@ StudyMoa는 누구나 스터디를 쉽게 만들고, 해당 스터디 주제에 
 - - -
 ## 우리가 사용해볼 기술들
 Infra : AWS<br>
-Database : MySQL<br>
-BackEnd : SpringBoot, JPA & Hibernate<br>
+Database : MySQL (AWS RDS)<br>
+BackEnd : SpringBoot, Security, OAuth, JPA & Hibernate<br>
 VCS : Git<br>
 CI : Jenkins<br>
 ProjectManagementTool : Trello<br>
