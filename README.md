@@ -22,4 +22,4 @@ CI : Jenkins<br>
 ProjectManagementTool : Trello<br>
 FrontEnd : Vue.js (Admin), JSP & Thymeleaf (Client)
 
-#### 프로젝트 기간 : 3개월 (총 12주)
+#### 프로젝트 기간 : 3개월 (총 12주 : 2019-05-18 ~ 2019-08-03)
