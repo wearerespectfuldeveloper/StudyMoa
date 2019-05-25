@@ -19,7 +19,7 @@ Database : MySQL (AWS RDS)<br>
 BackEnd : SpringBoot, Security, OAuth, JPA & Hibernate<br>
 VCS : Git<br>
 CI : Jenkins<br>
-BuildTool : Maven
+BuildTool : Maven<br>
 ProjectManagementTool : Trello<br>
 FrontEnd : Vue.js (Admin), JSP & Thymeleaf (Client)
 
