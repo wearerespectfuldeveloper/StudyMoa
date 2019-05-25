@@ -15,12 +15,18 @@ StudyMoa는 누구나 스터디를 쉽게 만들고, 해당 스터디 주제에 
 - - -
 ## 우리가 사용해볼 기술들
 Infra : AWS<br>
+<<<<<<< HEAD
 Database : MySQL<br>
 BackEnd : SpringBoot, SpringSecurity, OAuth2.0 , JPA & Hibernate<br>
+=======
+Database : MySQL (AWS RDS)<br>
+BackEnd : SpringBoot, Security, OAuth, JPA & Hibernate<br>
+>>>>>>> dcd209b3a241f4e62fc4e89ead886950258c57d0
 VCS : Git<br>
 CI : Jenkins<br>
 BuildTool : Maven
 ProjectManagementTool : Trello<br>
 FrontEnd : Vue.js (Admin), JSP & Thymeleaf (Client)
 
-#### 프로젝트 기간 : 3개월 (총 12주)
+#### 프로젝트 기간 : 3개월 (총 12주 : 2019-05-18 ~ 2019-08-03)
+회의록 링크 : [회의록](/Minutes.md)<br>
