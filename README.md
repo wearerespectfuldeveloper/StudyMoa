@@ -24,4 +24,4 @@ ProjectManagementTool : Trello<br>
 FrontEnd : Vue.js (Admin), JSP & Thymeleaf (Client)
 
 #### 프로젝트 기간 : 3개월 (총 12주 : 2019-05-18 ~ 2019-08-03)
-회의록 링크 : [회의록](/Minutes.md)<br>
+회의록 링크 : [회의록](/Minutes/week_1.md)<br>
