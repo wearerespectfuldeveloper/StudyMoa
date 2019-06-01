@@ -28,3 +28,4 @@ FrontEnd : Vue.js(Client), JSP(admin)
 #### 프로젝트 기간 : 3개월 (총 12주 : 2019-05-18 ~ 2019-08-03)
 [1주차 회의록](/Minutes/week_1.md)<br>
 [2주차 회의록](/Minutes/week_2.md)<br>
+[3주차 회의록](/Minutes/week_3.md)<br>
