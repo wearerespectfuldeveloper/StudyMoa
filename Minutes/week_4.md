@@ -35,4 +35,4 @@
 ![ERD_ver_1](/img/ERD_1.PNG)
 - - -
 #### 스토리 보드 (내용 종합본, 정리 필요)
-![스토리 보드 ver.1][https://github.com/wearerespectfuldeveloper/StudyMoa/blob/master/StoryBoard/storyboard_1.pdf]
+![스토리 보드 ver.1](/StoryBoard/storyboard_1.pdf)
