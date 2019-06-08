@@ -33,3 +33,6 @@
 - - -      
 #### 현재까지 완성된 ERD (미완성)
 ![ERD_ver_1](/img/ERD_1.PNG)
+
+#### 스토리 보드 (내용 종합본, 정리 필요)
+![스토리 보드 ver.1][/StoryBoard/storyboard_1.pdf]
