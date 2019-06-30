@@ -32,3 +32,4 @@ FrontEnd : Vue.js(Client), JSP(admin)
 [4주차 회의록](/Minutes/week_4.md)<br>
 [5주차 회의록](/Minutes/week_5.md)<br>
 [6주차 회의록](/Minutes/week_6.md)<br>
+[7주차 회의록](/Minutes/week_7.md)<br>
