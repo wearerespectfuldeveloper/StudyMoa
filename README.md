@@ -23,7 +23,7 @@ VCS : Git<br>
 CI : Jenkins<br>
 BuildTool : Maven<br>
 ProjectManagementTool : Trello<br>
-FrontEnd : Vue.js(Client), JSP(admin)
+FrontEnd : Vue.js(Client)
 
 #### 프로젝트 기간 : 3개월 (총 12주 : 2019-05-18 ~ 2019-08-03)
 [1주차 회의록](/Minutes/week_1.md)<br>
@@ -33,3 +33,7 @@ FrontEnd : Vue.js(Client), JSP(admin)
 [5주차 회의록](/Minutes/week_5.md)<br>
 [6주차 회의록](/Minutes/week_6.md)<br>
 [7주차 회의록](/Minutes/week_7.md)<br>
+[8주차 회의록](/Minutes/week_8.md)<br>
+- - -
+[프론트 엔드 Repository](https://github.com/wearerespectfuldeveloper/studyMoa-Application-Client)<br>
+[백엔드 Repository](https://github.com/wearerespectfuldeveloper/StudyMoa-Application)
