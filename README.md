@@ -9,7 +9,6 @@ StudyMoa는 누구나 스터디를 쉽게 만들고, 해당 스터디 주제에 
 * 윤 철 (icarus8050)
 * 강동규 (akwdmfxu)
 * 최단비 (danbi)
-* 박노빈 (Parknb1990)
 * 이송원 (swon3210)
 * 신미연 (miyeon48)
 <br><br>
